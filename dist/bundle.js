@@ -52,7 +52,7 @@ angular.module('devmtnTravel').controller('contactCtrl', function ($scope) {});
 'use strict';
 
 angular.module('devmtnTravel').controller('homeCtrl', function ($scope) {
-  var chicken = function chicken(a, b) {
+  var foo = function foo(a, b) {
     return a + b;
   };
 });

@@ -31,5 +31,5 @@ gulp.task('js', function() {
 
 gulp.watch(
   ['./js/**/*.js'],
-  ['js','concat']
+  ['js']
 );

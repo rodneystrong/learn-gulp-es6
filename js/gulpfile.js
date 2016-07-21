@@ -1,10 +1,11 @@
 const gulp = require('gulp');
+const concat = require('gulp-concat');
 
 //in your terminal, type:
 //npm install gulp
 //npm install gulp-concat
 //this will install the gulp packages you need. you can now require them
-//in this gulpfile below
+//in this gulpfile above
 //we're using npm to install things from the internet, to use
 //in our project.
 
